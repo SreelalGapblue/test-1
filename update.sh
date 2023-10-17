@@ -1,3 +1,1 @@
-pwd
-df -h
-
+echo "$(pwd)"
