@@ -1,2 +1,2 @@
 -- update_table.sql
-select * from students;
+select * from student;
