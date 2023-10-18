@@ -1,2 +1,2 @@
-echo "hi im dba"
+echo "hi im"
 echo "helloworld"
