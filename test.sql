@@ -1,1 +1,2 @@
-UPDATE students SET NAME = 'B' WHERE ID IN (3,1);
+UPDATE students SET NAME = 'DEMO' WHERE ID IN (3,1);
+commit;
